@@ -10,3 +10,5 @@ packages:
   github.com/wavesplatform/gowaves/pkg/blockchaininfo:
     interfaces:
       UpdatesPublisherInterface: {}
+
+# Update: 2025-10-18
